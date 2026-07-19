@@ -1,4 +1,4 @@
-let productName=document.getElementById("ProductName")
+let productName=document.getElementById("productName")
 let productPrice=document.getElementById("productPrice")
 let productQuantity=document.getElementById("productQuantity")
 let saveBtn=document.getElementById("saveBtn")
